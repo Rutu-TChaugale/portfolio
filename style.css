@@ -710,6 +710,7 @@ h3.hello
     font-size: 16px;
     color: var(--text-black-700);
     transform: all 0.3s ease;
+    
 }
 .contact .contact-form .form-item .form-control:focus
 {
