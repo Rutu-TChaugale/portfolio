@@ -36,7 +36,7 @@ Welcome to my GitHub portfolio! 🚀 I am a **Full Stack Developer** passionate 
 ---
 
 ## 📞 Connect with Me
-🔗 **GitHub:** [github.com/your-username](https://github.com/Rutu-TChaugale)  
+🔗 **GitHub:** [github.com/your-Rutu-TChaugale](https://github.com/Rutu-TChaugale)  
 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/portfolio)  
 📧 **Email:** your-email@example.com  
 
