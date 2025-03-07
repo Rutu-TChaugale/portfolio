@@ -37,7 +37,7 @@ Welcome to my GitHub portfolio! 🚀 I am a **Full Stack Developer** passionate 
 
 ## 📞 Connect with Me
 🔗 **GitHub:** [github.com/your-Rutu-TChaugale](https://github.com/Rutu-TChaugale)  
-🔗 **LinkedIn:** [linkedin.com/in/rutika-chaugale](www.linkedin.com/in/rutika-chaugale)  
+🔗 **LinkedIn:** [linkedin.com/in/rutika-chaugale](https://www.linkedin.com/in/rutika-chaugale-14a760224/)  
 📧 **Email:** chaugalerutu7770@gmail.com  
 
 Feel free to **fork**, **star**, and **contribute** to my projects. Happy coding! 😃
